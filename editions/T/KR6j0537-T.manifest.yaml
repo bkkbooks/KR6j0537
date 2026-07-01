@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0537/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0537/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 北斗七星護摩祕要儀軌
+  identifiers:
+    krp: KR6j0537
+    cbeta: T21n1306
+    cbeta_old_id: T21n1306
+    authorityid: CA0000281
+    json_key: T1306
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1306.xml
+    old_id: T21n1306
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0537_000-T.yaml, hash: 'sha256:512947b8295623513db980da3f6dc645e03124251e1c3c0711d377c3540c0132'}
+  - {seq: 1, filename: KR6j0537_001-T.yaml, hash: 'sha256:aa299e623433cdcd6e067c6dae950a3fb6813a449ebcc64c89632fe1992af167'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0537_000-T.markers.yaml, hash: 'sha256:3bf73630d23e32e3b548eac41662f4ff04f54ccef948281eaef942de483dcebb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0537_001-T.markers.yaml, hash: 'sha256:4687b36c86fad607aee639947f51009d40645e6cf073f7ea4bd2bea7f26db9d4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0537_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 649
+  label: 北斗七星護摩祕要儀軌
+  type: juan
+  level: 1
+hash: sha256:c6b6b98a1d3adfda7e0ad99637802fb3051cf4e8d9e7c91606e13dcca85d3c1e
