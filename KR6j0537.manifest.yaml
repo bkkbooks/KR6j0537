@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0537/v1
 canonical_location: https://kanripo.org/bkk/KR6j0537/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 北斗七星護摩祕要儀軌
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0537_000.yaml, hash: 'sha256:512947b8295623513db980da3f6dc645e03124251e1c3c0711d377c3540c0132'}
-  - {seq: 1, filename: KR6j0537_001.yaml, hash: 'sha256:aa299e623433cdcd6e067c6dae950a3fb6813a449ebcc64c89632fe1992af167'}
+  - {seq: 1, filename: KR6j0537_001.yaml, hash: 'sha256:01dca59000ee21010e26f2d0db7d3014fd1db54351e503485a195ca911e8691f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0537_000.markers.yaml, hash: 'sha256:4959ce5554625762aa65607bf5442c6739afabc5a8ca48407699aec091c97874'}
-  - {seq: 1, role: markers, filename: assets/KR6j0537_001.markers.yaml, hash: 'sha256:b96bfa1146e387be9d62acb9c0e516743c3e95e36f49cbd4f0b2e85faad6ccf8'}
+  - {seq: 1, role: markers, filename: assets/KR6j0537_001.markers.yaml, hash: 'sha256:c8cebb7e808acaead11484b93ef7130df14d1a2799ef7e86856f7f51fccdc854'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 北斗七星護摩祕要儀軌
   type: juan
   level: 1
-hash: sha256:ed94b219c565ba77d5a34520b6c780710dba66d26302e8c1ac06790776cc3f2a
+hash: sha256:ca607463574d5f8d08149364634854100fe9eb766481cb6f92f7253f807d7c0b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
